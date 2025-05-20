@@ -6,7 +6,7 @@ import java.util.TreeSet;
 
 public class CadastroProdutos {
     //atributo
-    private Set<Produto> produtoSet;
+    Set<Produto> produtoSet;
 
     public CadastroProdutos() {
         this.produtoSet = new HashSet<>();

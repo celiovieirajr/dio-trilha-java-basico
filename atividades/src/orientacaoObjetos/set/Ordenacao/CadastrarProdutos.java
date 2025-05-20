@@ -4,11 +4,11 @@ import java.util.HashSet;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class CadastroProdutos {
+public class CadastrarProdutos {
     //atributo
     private Set<Produto> produtoSet;
 
-    public CadastroProdutos() {
+    public CadastrarProdutos() {
         this.produtoSet = new HashSet<>();
     }
 
